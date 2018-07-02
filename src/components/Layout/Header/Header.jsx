@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import logo from '../../../images/logo-natale.png';
+import logo from '../../../assets/images/logo-natale.png';
 
 import Navbar from '../Navbar/Navbar.jsx';
 import Menu from '../../Shared/Menu/Menu.jsx';
